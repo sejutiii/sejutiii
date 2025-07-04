@@ -19,7 +19,7 @@
 
 I'm **Sejuti Sharmin Siddiqui**, a software engineering student at the University of Dhaka. I'm passionate about building thoughtful technology — especially at the intersection of **machine learning**, **human-computer interaction**, and **ethical software design**.
 
-- 🌱 Currently learning with Artificial Intelligence conecpts
+- 🌱 Currently learning Artificial Intelligence concepts
 - 🚀 Love to build impactful, accessible applications
 - 🎯 Always learning, always improving
 
